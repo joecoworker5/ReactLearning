@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "name": "Phillip Strosin",
+      "id": 14
+    },
+    {
+      "name": "Alfredo Heaney",
+      "id": 15
+    },
+    {
+      "name": "Nancy Turcotte",
+      "id": 16
+    }
+  ],
+  "albums": [
+    {
+      "userId": 14,
+      "title": "Licensed Wooden Sausages",
+      "id": 14
+    },
+    {
+      "userId": 15,
+      "title": "Practical Soft Chips",
+      "id": 15
+    },
+    {
+      "userId": 14,
+      "title": "Luxurious Steel Chair",
+      "id": 16
+    },
+    {
+      "userId": 14,
+      "title": "Bespoke Steel Shirt",
+      "id": 17
+    },
+    {
+      "userId": 14,
+      "title": "Electronic Rubber Chicken",
+      "id": 18
+    },
+    {
+      "userId": 14,
+      "title": "Intelligent Plastic Car",
+      "id": 19
+    },
+    {
+      "userId": 14,
+      "title": "Fantastic Frozen Car",
+      "id": 20
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7735797075673088",
+      "id": 1
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1592453299699712",
+      "id": 2
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8802836236206080",
+      "id": 3
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=269194677452800",
+      "id": 4
+    }
+  ]
+}
